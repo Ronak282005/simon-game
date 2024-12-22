@@ -1,5 +1,5 @@
-#simple simon game.
-#Tech Used-
-1.html.
-2.css.
-3.js.
+# simple simon game.
+## Tech Used-
+- html.
+- css.
+- js.
